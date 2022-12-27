@@ -1,0 +1,9 @@
+What is SPA?
+-----------
+A SPA is a web app that loads a single HTML page that is dynamically updated by javascript as the user interacts with the app. A whole page refresh does not occur. So after the first http request that returns the single html page, subsequent http requests are only for data not html markup. All the pages are rendered in the client's browser by javascript.
+
+Backend:
+An ASP.NET Core app is a console app that creates a web server.
+
+
+
